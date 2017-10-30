@@ -1,7 +1,7 @@
 # pythonProgramming3rdEdition
-Exercises from Python Programming: An Introduction to Computer Science by John Zelle 3rd Edition
+Exercises from Python Programming: An Introduction to Computer Science by John Zelle 3rd Edition.
 See http://mcsp.wartburg.edu/zelle/python/ for information on textbook.
-Written in Python3
+All excercises written in Python3. Additional graphics.py downloadable at website above.
 
 File naming convention:
 [Python Programming + Chapter # + Programming Excercise #]
